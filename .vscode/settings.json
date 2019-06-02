@@ -1,0 +1,13 @@
+{
+    "cucumberautocomplete.steps": [
+        "e2e-tests/stepdefinitions/*.ts"
+    ],
+    "cucumberautocomplete.syncfeatures": "e2e-tests/features/*.feature",
+    "cucumberautocomplete.strictGherkinCompletion": true,
+    "cucumberautocomplete.smartSnippets": true,
+    "editor.quickSuggestions": {
+        "comments": false,
+        "strings": true,
+        "other": true
+    }
+}
