@@ -28,7 +28,7 @@
     "cucumber-html-reporter": "^4.0.3",
     "cucumber-junit": "^1.7.1",
     "fs-extra": "^4.0.1",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-protractor": "^4.1.0",
     "gulp-util": "^3.0.8",
     "protractor": "5.1.2",
